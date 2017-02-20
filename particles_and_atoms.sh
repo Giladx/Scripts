@@ -6,10 +6,10 @@
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 
-echo installing particals and atoms
+echo installing particles and atoms
 cd user/data/gantry5/themes/g5_helium/
-mkdir particals
-cd particals
+mkdir particles
+cd particles
 echo done
 wget http://www.inspiretheme.com/downloads/freebies/accordion-particle/accordion-particle-1-2-0-zip?format=raw.zip
 unzip accordion-particle-1-2-0-zip\?format\=raw.zip

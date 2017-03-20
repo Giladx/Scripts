@@ -1,11 +1,11 @@
 #!/bin/bash
 # Program:
-#   grav instllation
+# particales and atoms installation
 # History:
 # 01-04-2017 giladlevi First release.
-PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
-export PATH
-
+# v1.0
+# How To:
+# copy to /user/data/gantrey5/themes/ and run
 echo installing particles and atoms
 cd user/data/gantry5/themes/g5_helium/
 mkdir particles
@@ -65,3 +65,7 @@ wget http://www.inspiretheme.com/downloads/freebies/fixed-header-atom/fixed-head
 unzip fixed-header-atom-1-0-8-zip\?format\=raw.zip
 rm fixed-header-atom-1-0-8-zip\?format\=raw.zip
 echo done
+
+echo -e "\e[32mYou can add more particales and atoms at the end of this script ..."
+echo -e "\e[31mBye \e[5mBye \e[39m;) !"
+echo

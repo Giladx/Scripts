@@ -14,7 +14,16 @@ bin/gpm install g5_hydrogen
 echo
 bin/gpm install g5_helium
 echo
-bin/gpm install optimus shoppingcart-paypal shoppingcart adminidenticons login-oauth
+bin/gpm install optimus    
+echo
+bin/gpm install shoppingcart
+echo
+bin/gpm install shoppingcart-paypal
+echo
+bin/gpm install adminidenticons
+echo
+bin/gpm install login-oauth
+echo
 echo -e "\e[32mYou can add more plugins at the end of this script ..."
 echo -e "\e[31mBye \e[5mBye \e[39m;) !"
 echo
